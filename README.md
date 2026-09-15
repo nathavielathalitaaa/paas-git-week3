@@ -6,3 +6,7 @@ Repository latihan Version Control menggunakan Git dan GitHub.
 - Nama: Nathaviela
 - Kelas: XII SIJA 1
 - Minggu: 3
+
+## Feature Profile
+
+Menambahkan fitur profile pengguna.
